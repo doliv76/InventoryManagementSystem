@@ -1,0 +1,58 @@
+#AnchorPane {
+    -fx-background-color: #f8bd9d;
+}
+#productsAnchor{
+    -fx-background-color: #f98ba4;
+    -fx-background-radius: 10px;
+}
+#searchProductsButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+}
+#addProductsButton {
+    -fx-background-color: #fff4c7;
+    -fx-text-fill: #3f3f3d;
+ }
+ #deleteProductsButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+ }
+ 
+ #modifyProductsButton {
+    -fx-background-color: #fff4c7;
+    -fx-text-fill: #3f3f3d;
+ }
+ #searchPartsButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+ }
+ #addPartsButton{
+     -fx-background-color: #fff4c7;
+     -fx-text-fill: #3f3f3d;
+ }
+ #modifyPartsButton {
+     -fx-background-color: #fff4c7;
+     -fx-text-fill: #3f3f3d;
+ }
+ #deletePartsButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+ }
+ 
+#partsAnchor{
+    -fx-background-color: #f98ba4;
+    -fx-background-radius: 10px;
+}
+
+#exitButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+}
+
+.table-row-cell:selected {
+    -fx-base: #f98ba4;
+    -fx-background-color: derive(-fx-base, 40%);
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+    -fx-text-fill: #3f3f3d;
+}

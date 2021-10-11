@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DonaldOliverInventorySystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DonaldOliverInventorySystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

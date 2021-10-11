@@ -1,0 +1,31 @@
+#AnchorPane {
+    -fx-background-color: #f8bd9d;
+}
+.table-row-cell:selected {
+    -fx-base: #f98ba4;
+    -fx-background-color: derive(-fx-base, 40%);
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+    -fx-text-fill: #3f3f3d;
+}
+
+#addAssocPartButton {
+    -fx-background-color: #fff4c7;
+    -fx-text-fill: #3f3f3d;
+}
+#deleteAssocPartButton{
+    -fx-background-color: #fff4c7;
+    -fx-text-fill: #3f3f3d;  
+}
+#addPartCancelButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d; 
+}
+#saveProductButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+}
+#addPartSearchButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+}

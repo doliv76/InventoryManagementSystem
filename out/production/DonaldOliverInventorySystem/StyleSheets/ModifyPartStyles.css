@@ -1,0 +1,12 @@
+#AnchorPane {
+    -fx-background-color: #f8bd9d;
+}
+
+#cancelButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d; 
+}
+#saveButton {
+    -fx-background-color: #c8adb8;
+    -fx-text-fill: #3f3f3d;
+}
